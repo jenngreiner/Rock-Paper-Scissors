@@ -54,4 +54,3 @@ var playGame = function () {
 
 // Play game for the first time
 playGame();
-
